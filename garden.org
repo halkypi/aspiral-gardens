@@ -28,7 +28,8 @@ This document is for managing todo and planning items related to the the garden
 *** figure out the wood storage
 *** Add a swing
 **** figure out where the swing should go
-** 📓 Org/Markdown Basics
+
+* 📓 Org/Markdown Basics
 LEADER m t → Toggle TODO state
 
 TAB → Expand/collapse heading
