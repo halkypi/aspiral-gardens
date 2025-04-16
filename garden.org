@@ -2,8 +2,31 @@
 
 This document is for managing todo and planning items related to the the garden
 
+* Research
+** TODO Go through research and read articles, add images and what not
+** Plan garden
+*** purchase and message ph level
+** TODO Finish Sauna
+*** Install the second bench
+*** Add siding
+*** complete roof installation
+*** add outside step
+*** surround stove and pipe with rocks
+**** get rocks
+**** build cage frame
+**** shore up the floor to take the weight
+*** Install the door
+**** buy hinges
+**** add door framing, insulation and vapor seal
+**** add add frame to the opening
+** Plant out the sauna area
+*** plan which plants/herbs/birch are going there
+*** figure out the wood storage
+*** Add a swing
+**** figure out where the swing should go
 * Emacs cheatsheet
-
+** TODO config set ups
+*** has , leader broken org mode global todos etc?
 ** Editing config
 leader f p p
 leader h r r , doom sync within emacs
@@ -83,8 +106,3 @@ LEADER s p → Search project
 LEADER h d h → Open Doom Emacs manual
 
 LEADER h r r → Reload Doom config
-
-
-* Research
-**
-** TODO number two
