@@ -1,0 +1,6 @@
+#+title: Garden Organization
+
+This document is for managing todo and planning items related to the the garden
+
+* TODO test
+** TODO number two
