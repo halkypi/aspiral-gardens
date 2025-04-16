@@ -1,9 +1,3 @@
----
-layout: post
-title: "Research on our Garden"
-date: 2025-04-15
----
-
 These have come from prompts with cgpt.  The plan is to add pictures and such.
 
 
