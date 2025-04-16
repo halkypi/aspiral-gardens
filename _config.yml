@@ -1,2 +1,14 @@
 title: "Aspiral Gardens"
 theme: minima
+
+minima:
+  skin: classic
+  social_links: []  # optional: remove social icons
+
+# Include your custom CSS
+sass:
+  style: compressed
+
+include:
+  - assets/css
+
