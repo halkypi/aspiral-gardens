@@ -48,7 +48,7 @@ Adding: Deer-Resistant-Plants-Updated.pdf https://chatham.ces.ncsu.edu/wp-conten
 
 Starting to go through some deep research from cgpt, listed in research.md.
 
-
+Moving Stove manual to assets/853614-US1269E-EN_FR.pdf. 
 ## Mon 2025-04-14
 
 ![](assets/2025-04-14-22-47-51.png)
