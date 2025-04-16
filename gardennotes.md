@@ -40,6 +40,15 @@
 
 # NOTES
 
+## Tue 2025-04-15
+
+Creating a git repo so I can share this with Anne and others.  
+
+Adding: Deer-Resistant-Plants-Updated.pdf https://chatham.ces.ncsu.edu/wp-content/uploads/2015/09/Deer-Resistant-Plants-Updated.pdf
+
+Starting to go through some deep research from cgpt, listed in research.md.
+
+
 ## Mon 2025-04-14
 
 ![](assets/2025-04-14-22-47-51.png)
