@@ -2,6 +2,10 @@
 
 This document is for managing todo and planning items related to the the garden
 
+* TODO test
+
+** test 2
+
 * Research
 ** TODO Go through research and read articles, add images and what not
 ** Plan garden
@@ -24,6 +28,17 @@ This document is for managing todo and planning items related to the the garden
 *** figure out the wood storage
 *** Add a swing
 **** figure out where the swing should go
+** 📓 Org/Markdown Basics
+LEADER m t → Toggle TODO state
+
+TAB → Expand/collapse heading
+
+M-j / M-k → Move heading down/up
+
+LEADER m a → Org agenda
+
+LEADER m T → Global TODO list
+
 * Emacs cheatsheet
 ** TODO config set ups
 *** has , leader broken org mode global todos etc?
@@ -86,17 +101,6 @@ LEADER w m → Maximize current window
 LEADER w d → Delete current window
 
 LEADER w h/j/k/l → Move between splits
-
-** 📓 Org/Markdown Basics
-LEADER m t → Toggle TODO state
-
-TAB → Expand/collapse heading
-
-M-j / M-k → Move heading down/up
-
-LEADER m a → Org agenda
-
-LEADER m T → Global TODO list
 
 ** 🔍 Search & Help
 LEADER / → Search in current file (ripgrep-style)
