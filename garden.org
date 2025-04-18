@@ -3,7 +3,7 @@
 This document is for managing todo and planning items related to the the garden
 
 * TODO Finish Sauna
-** Install the door
+** TODO Install the door
 *** buy hinges
 *** add door framing, insulation and vapor seal
 *** add add frame to the opening
