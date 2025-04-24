@@ -1,6 +1,8 @@
+# Deep Reseach from a Prompt on Higher Education
+
 https://chatgpt.com/c/6808e6a0-6824-8006-abbd-3d4d969b3475
 
-Prompt:
+## Prompt:
 
 You are an expert in higher education systems — particularly in the U.S. and Europe — with deep knowledge of credit structures, transfer mechanisms, and degree planning. Your goal is to help a bright student, Harry, develop a grounded and strategic understanding of how to navigate undergraduate education.
 
